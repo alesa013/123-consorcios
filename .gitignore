@@ -1,0 +1,6 @@
+# Ambiente virtual: cada pessoa cria o seu
+.venv/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
